@@ -241,37 +241,10 @@ Modify `config.py` to customize:
 
 ## 🎨 Screenshots
 
-<div align="center">
 
-### Main Interface
-![Main Interface](https://via.placeholder.com/800x400/1f77b4/ffffff?text=Main+Interface+Screenshot)
 
-### AI Chat Assistant
-![AI Chat](https://via.placeholder.com/800x400/2ca02c/ffffff?text=AI+Chat+Assistant+Screenshot)
 
-### Code Analysis Results
-![Analysis Results](https://via.placeholder.com/800x400/ff7f0e/ffffff?text=Code+Analysis+Results+Screenshot)
 
-</div>
-
----
-
-## 🧪 Testing
-
-Run the test suite to ensure everything works correctly:
-
-```bash
-# Install testing dependencies
-pip install pytest pytest-cov
-
-# Run tests
-pytest tests/ -v
-
-# Run with coverage
-pytest tests/ --cov=. --cov-report=html
-```
-
----
 
 ## 🚀 Deployment
 
@@ -369,31 +342,9 @@ copies or substantial portions of the Software.
 - **Python Community** for the excellent libraries and tools
 - **Contributors** who help improve this project
 
----
-
-## 📞 Support & Contact
-
-<div align="center">
-
-### Need Help?
-
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/akaTalhakhan/Agentic_Coder_with_OpenAI_Assistant_API/issues)
-[![Documentation](https://img.shields.io/badge/Read-Documentation-blue?style=for-the-badge&logo=gitbook)](https://github.com/akaTalhakhan/Agentic_Coder_with_OpenAI_Assistant_API/wiki)
-[![Discussions](https://img.shields.io/badge/GitHub-Discussions-green?style=for-the-badge&logo=github)](https://github.com/akaTalhakhan/Agentic_Coder_with_OpenAI_Assistant_API/discussions)
-
-### Connect With Us
-
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your_handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your_profile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-
-</div>
-
----
 
 <div align="center">
 
 
 *Empowering developers with AI-driven coding assistance*
 
-</div>
